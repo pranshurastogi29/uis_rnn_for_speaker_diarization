@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 18 16:22:41 2018
-
-@author: Harry
-Modified from https://github.com/wiseman/py-webrtcvad/blob/master/example.py
-"""
 
 import collections
 import contextlib
