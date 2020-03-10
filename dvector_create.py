@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 19 14:34:01 2018
-
-@author: Harry
-
-Creates "segment level d vector embeddings" compatible with
-https://github.com/google/uis-rnn
-
-"""
 
 import glob
 import librosa
