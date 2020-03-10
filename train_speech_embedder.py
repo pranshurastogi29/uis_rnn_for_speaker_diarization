@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  5 21:49:16 2018
-
-@author: harry
-"""
 
 import os
 import random
