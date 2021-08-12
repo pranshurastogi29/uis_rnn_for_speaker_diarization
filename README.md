@@ -20,4 +20,3 @@ you can download the toy dataset from here
 * train https://drive.google.com/file/d/1rAGtZAz614-euqj4-pUSPm9qEXlG21o1/view?usp=sharing
 
 after downloading the toy_dataset upload these to your google drive
-This code is working pipeline of the code of github repo of uis-rnn and harry_volek
