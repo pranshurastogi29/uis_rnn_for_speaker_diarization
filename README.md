@@ -1,4 +1,4 @@
-# uis_rnn_for_speaker_diarization
+# UIS-RNN:  Speaker_Diarization
 please open ipynb file this is the pipeline of whole speaker diarization process and contains code of all other files in the repo
 in a specific order 
 
